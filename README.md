@@ -102,7 +102,7 @@ Devido à política de segurança (CORS), os navegadores atuais impedem que esse
 
 Por essa razão, recomendo o uso do navegador Internet Explorer. <img src="img/image-7.png" alt="Internet Explorer" style="width: 20px; height: 20px;">
 
-Agora, digite na URL o IP informado na opção do Site Cloner ou digite simplesmente `localhost/`. 
+Agora, utilize na URL o IP informado na opção do Site Cloner ou digite simplesmente `localhost/` caso o teste seja na própria máquina. 
 <details>
 <summary>A tela abaixo será exibida:</summary>
 
