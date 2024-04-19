@@ -100,11 +100,9 @@ Devido à política de segurança (CORS), os navegadores atuais impedem que esse
 - A política CORS é aplicada para proteger os usuários da web contra ataques de segurança, como ataques de script entre sites (XSS) e roubo de informações confidenciais. Ela permite que os servidores restrinjam quais origens de solicitação têm permissão para acessar seus recursos, garantindo que apenas sites confiáveis possam interagir com eles.
 </details>
 
-<br>
-
 Por essa razão, recomendo o uso do navegador Internet Explorer. <img src="img/image-7.png" alt="Internet Explorer" style="width: 20px; height: 20px;">
 
-Agora, digite na URL o IP informado na opção do Site Cloner ou digite simplesmente `localhost/` caso esteja utilizando em . 
+Agora, digite na URL o IP informado na opção do Site Cloner ou digite simplesmente `localhost/`. 
 <details>
 <summary>A tela abaixo será exibida:</summary>
 
